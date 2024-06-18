@@ -5,13 +5,15 @@
       <ul>
           <li><strong>Entrada de Dados:</strong> Solicita ao usuário sua altura (em metros) e peso (em quilogramas).</li>
           <li><strong>Cálculo do IMC:</strong> Utiliza a fórmula <code>IMC = peso / (altura ** 2)</code> para calcular o índice.</li>
-           <li><strong>Classificação do IMC:</strong> Com base no valor calculado, classifica o IMC em categorias padrão (baixo peso, peso normal, sobrepeso, obesidade).</li>
+          <li><strong>Classificação do IMC:</strong> Com base no valor calculado, classifica o IMC em categorias padrão (baixo peso, peso normal, sobrepeso, obesidade).</li>
       </ul>
 
   <p>Este repositório é ideal para quem deseja uma ferramenta simples e rápida para calcular o IMC e entender melhor sua saúde corporal.</p>
         
   <h2>Contribuições</h2>
         <p>Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.</p>
+  <h2>Linguagens</h2>
+        <p>- Python.</p>
     </div>
 </body>
 </html>
